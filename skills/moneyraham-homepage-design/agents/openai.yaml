@@ -1,0 +1,4 @@
+interface:
+  display_name: "Moneyraham_homepage_Disign"
+  short_description: "Korean-first homepage design workflow and quality checks."
+  default_prompt: "Use $moneyraham-homepage-design to design and build a Korean-first responsive homepage for my brand."
